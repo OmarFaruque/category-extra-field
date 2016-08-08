@@ -2,7 +2,7 @@
 /*
 Plugin Name: Category Extra Field
 Plugin URI: https://www.facebook.com/profile.php?id=100006084726970
-Description: Tax meta class usage demo
+Description: Category / Taxanomy Extra Field for custom use.
 Version: 1.0.0
 Author: Omar Faruque
 Author URI: http://wwww.aboutdhaka.com/
